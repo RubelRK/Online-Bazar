@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RK Online Bazar</title>
+  <style>
+    body { font-family: sans-serif; background: #f2f2f2; padding: 20px; }
+    header { background: #0a84ff; color: white; padding: 20px; text-align: center; border-radius: 8px; }
+    .product { background: white; padding: 15px; margin: 15px 0; border-radius: 8px; box-shadow: 0 0 10px #ccc; }
+    .product img { width: 100%; border-radius: 6px; }
+    .product h3 { margin: 10px 0 5px; }
+    .footer { text-align: center; margin-top: 40px; color: #666; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>RK Online Bazar</h1>
+    <p>বাংলাদেশের মানুষের জন্য অনলাইন কেনাবেচার বিশ্বস্ত জায়গা</p>
+  </header>
+
+  <div class="product">
+    <img src="https://via.placeholder.com/300x200" alt="Product">
+    <h3>পণ্যের নাম</h3>
+    <p>মূল্য: ৫০০ টাকা</p>
+  </div>
+
+  <div class="product">
+    <img src="https://via.placeholder.com/300x200" alt="Product">
+    <h3>আরেকটি পণ্য</h3>
+    <p>মূল্য: ৭৫০ টাকা</p>
+  </div>
+
+  <div class="footer">
+    &copy; 2025 RK Online Bazar. All rights reserved.
+  </div>
+</body>
+</html>
